@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "Bg5yK1dQ6ZUib/L3ZMm4MRY2v5oThtjxKFlW2Deu6Zo=",
+  "Source": "10b-SP3_Projeto_Web-Lh_Pets_Alunos",
+  "BasePath": "_content/10b-SP3_Projeto_Web-Lh_Pets_Alunos",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "10b-SP3_Projeto_Web-Lh_Pets_Alunos\\wwwroot",
+      "Source": "10b-SP3_Projeto_Web-Lh_Pets_Alunos",
+      "ContentRoot": "C:\\Users\\pedro\\code-C-SHARP\\Senai\\modulo_UC9-A10bSP3\\10b-SP3_Projeto_Web-Lh_Pets_Alunos\\wwwroot\\",
+      "BasePath": "_content/10b-SP3_Projeto_Web-Lh_Pets_Alunos",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\pedro\\code-C-SHARP\\Senai\\modulo_UC9-A10bSP3\\10b-SP3_Projeto_Web-Lh_Pets_Alunos\\wwwroot\\index.html",
+      "SourceId": "10b-SP3_Projeto_Web-Lh_Pets_Alunos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pedro\\code-C-SHARP\\Senai\\modulo_UC9-A10bSP3\\10b-SP3_Projeto_Web-Lh_Pets_Alunos\\wwwroot\\",
+      "BasePath": "_content/10b-SP3_Projeto_Web-Lh_Pets_Alunos",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
